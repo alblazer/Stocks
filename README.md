@@ -1,8 +1,21 @@
-# Stocks
+# US Startups 
 
-Using yfinance and BeautifulSoup to parse stock data and create graphs to show their stock highs and lows.
+A small project in which I take a look at funding statistics for US Startups to find the best type of company to startup.
+
+![image](https://user-images.githubusercontent.com/73805203/167970142-a5067bfb-02e0-47c1-848d-1a6652587317.png)
+
+Technologies: Jupyter Notebook, Tableu, Python, Numpy, Pandas
+
+Extraction
+
+Through Kaggle, I found a good starting point using the dataset StartUp Investments (Crunchbase), detailing many forms of investments made to startups 
+and how much each specific one was.  From there, I mainly wanted to focus on total investments to find out what companies were getting the most funding.
+Source: https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase?select=investments_VC.csv
 
 
+![topfund](https://user-images.githubusercontent.com/73805203/167970828-b709e398-23b6-494b-9ac4-70b8728099d7.PNG)
+
+As shown in this graph, the top 3 markets that are being funded in the US are Biotech, Mobile, and Software.  
 
 
 
