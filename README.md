@@ -18,6 +18,10 @@ Source: https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbas
 As shown in this graph, the top 3 markets that are being funded in the US are Biotech, Mobile, and Software.  
 
 
+![number](https://user-images.githubusercontent.com/73805203/168499604-f62c0ca9-31fa-4275-abb0-7e8886f30af4.PNG)
+
+In this graph, the vast majority of startups, well, start up in the San Francisco Bay Area in California.  New York and Boston trail behind 
+with less than half of the startups present in California.  
 
 
 
